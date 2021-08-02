@@ -1,6 +1,6 @@
 <p align="center"><img width='200px' src='https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png' />
 
-<h1 align="center">MySQL Vocabulary Booster | Trybe </h1>  </p>
+<h1 align="center">MySQL Vocabulary Booster</h1>  </p>
 
 ## Desenvolvido por
 
